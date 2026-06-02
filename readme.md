@@ -74,7 +74,7 @@
 
 Escalação opcional: DPO consultivo ou parecer jurídico-interno do CRF-MT para fluxos de dados sensíveis.
 
-### 1.7 Experiências anteriores (inalterado)
+### 1.7 Experiências anteriores
 
 - GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
 - LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
@@ -177,3 +177,9 @@ CNPJ 63.119.849/0001-07
 Brasília/DF  
 
 contato.zfwebtech@gmail.com  
+
+GitHub: [https://github.com/aasf86](https://github.com/aasf86) 
+
+LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
+
+WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
