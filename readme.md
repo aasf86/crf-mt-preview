@@ -74,13 +74,7 @@
 
 Escalação opcional: DPO consultivo ou parecer jurídico-interno do CRF-MT para fluxos de dados sensíveis.
 
-### 1.7 Experiências anteriores
-
-- GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
-- LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
-- WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
-
-### 1.8 Riscos e recomendações (inalterados em essência)
+### 1.7 Riscos e recomendações (inalterados em essência)
 
 - **Complexidade subestimada** em formulários com muitas regras: mitigação com **priorização por ondas** e prova de conceito em formulários críticos.  
 - **Alinhamento PDF final** com identidade visual e campos legais: validação jurídica/administrativa do CRF-MT.  
@@ -105,7 +99,7 @@ As questões da **seção 10** do documento preliminar (usuários cadastrados vs
 
 ### 2.3 Definições técnicas (stack, monólito, PDF, LGPD)
 
-- **Permanecem inalteradas** conforme seções 1.1 a 1.4 e 1.8 deste documento.
+- **Permanecem inalteradas** conforme seções 1.1 a 1.4 e 1.7 deste documento.
 
 ---
 
@@ -168,6 +162,14 @@ a proposta **pode evoluir para mais ou para menos** em **escopo, prazo e valor**
 
 ---
 
+## 7. Experiências anteriores
+
+- GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
+- LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
+- WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
+
+---
+
 **Declaração:** Esta manifestação destina-se ao **levantamento de mercado e planejamento** do CRF-MT, com **faixas de prazo e valor** dadas de forma orientativa após alinhamento preliminar; não substitui proposta comercial vinculante sem contrato e especificação detalhada.
 
 **Z F WEB TECH LTDA**
@@ -176,10 +178,6 @@ CNPJ 63.119.849/0001-07
 
 Brasília/DF  
 
-contato.zfwebtech@gmail.com  
-
-GitHub: [https://github.com/aasf86](https://github.com/aasf86) 
-
-LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
+contato.zfwebtech@gmail.com 
 
 WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
