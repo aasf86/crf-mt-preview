@@ -110,7 +110,8 @@ Escalação opcional: DPO consultivo ou parecer jurídico-interno do CRF-MT para
 Referências públicas para consulta de portfólio técnico e trajetória profissional (conforme item h da pesquisa de mercado):
 
 - GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
-- LinkedIn: [https://www.linkedin.com/in/anderson-fernandes-2256a3122/](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)
+- LinkedIn: [https://www.linkedin.com/in/anderson-fernandes-2256a3122/](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
+- Contato com o desenvolvedor (WhatsApp): [https://api.whatsapp.com/send?phone=5565992177335](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
 
 Detalhamento de casos por setor, stack e resultados pode ser complementado mediante solicitação do CRF-MT.
 
