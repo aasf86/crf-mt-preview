@@ -110,13 +110,8 @@ Escalação opcional: DPO consultivo ou parecer jurídico-interno do CRF-MT para
 Referências públicas para consulta de portfólio técnico e trajetória profissional (conforme item h da pesquisa de mercado):
 
 - GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
-- LinkedIn: [https://www.linkedin.com/in/anderson-fernandes-2256a3122/](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
-- Contato com o desenvolvedor (WhatsApp): [https://api.whatsapp.com/send?phone=5565992177335](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
-
-— **Z F WEB TECH LTDA** 
-— CNPJ 63.119.849/0001-07 
-— Brasília/DF 
-— contato.zfwebtech@gmail.com  
+- LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
+- WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
 
 Detalhamento de casos por setor, stack e resultados pode ser complementado mediante solicitação do CRF-MT.
 
@@ -162,7 +157,4 @@ Estas lacunas impactam **diretamente** custo, prazo e arquitetura de segurança 
 
 **Declaração:** Esta manifestação destina-se exclusivamente ao **levantamento de mercado e planejamento** do CRF-MT, sem gerar obrigação contratual, nos termos do próprio documento de pesquisa.
 
-— **Z F WEB TECH LTDA** 
-— CNPJ 63.119.849/0001-07 
-— Brasília/DF 
-— contato.zfwebtech@gmail.com  
+**Z F WEB TECH LTDA** — CNPJ 63.119.849/0001-07 — Brasília/DF — contato.zfwebtech@gmail.com  
