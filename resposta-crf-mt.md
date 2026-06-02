@@ -107,7 +107,12 @@ Escalação opcional: DPO consultivo ou parecer jurídico-interno do CRF-MT para
 
 ## 8. Experiências anteriores
 
-*(Preencher pela Z F WEB TECH LTDA com casos reais: setor, tipo de sistema, stack, escopo e resultados — conforme item h da pesquisa de mercado.)*
+Referências públicas para consulta de portfólio técnico e trajetória profissional (conforme item h da pesquisa de mercado):
+
+- GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
+- LinkedIn: [https://www.linkedin.com/in/anderson-fernandes-2256a3122/](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)
+
+Detalhamento de casos por setor, stack e resultados pode ser complementado mediante solicitação do CRF-MT.
 
 ---
 
