@@ -166,7 +166,6 @@ a proposta **pode evoluir para mais ou para menos** em **escopo, prazo e valor**
 
 - GitHub: [https://github.com/aasf86](https://github.com/aasf86)  
 - LinkedIn: [![LinkedIn — ver perfil](https://img.shields.io/badge/LinkedIn-ver%20perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-fernandes-2256a3122/)  
-- WhatsApp (falar com o desenvolvedor — API oficial): [![WhatsApp — abrir conversa](https://img.shields.io/badge/WhatsApp-abrir%20conversa-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565992177335) — número **+55 65 99217-7335**
 
 ---
 
